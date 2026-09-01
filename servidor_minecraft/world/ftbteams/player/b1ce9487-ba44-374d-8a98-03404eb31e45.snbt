@@ -1,0 +1,17 @@
+{
+	id: "b1ce9487-ba44-374d-8a98-03404eb31e45"
+	type: "player"
+	player_name: "NiceAr"
+	ranks: {
+		b1ce9487-ba44-374d-8a98-03404eb31e45: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NiceAr"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5D59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
